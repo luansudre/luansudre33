@@ -1,0 +1,26 @@
+{
+  "name": "Troy Glover",
+  "age": 30,
+  "address": {
+    "street": "Tacit Pass",
+    "city": "Dofoogu",
+    "state": "WI",
+    "zip": "42383"
+  },
+  "contact": {
+    "phone": "(707) 658-6542",
+    "servicePhone": "800354917"
+  },
+  "birthday": "1997-10-09T02:14:09.634Z",
+  "ip": "223.243.206.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Jouk awenesub ham ebu ozced la ac appoj cel esuzaj wu jojfafaz ze buvri zovakuk kaloin tubpehju oketar. Sut rivucuner vebjoge wewsehaj nekol fipew oposeebi uvu zugiki ebereki rovicdo kicrefi dumit piskah izonazpi remfi. Im iwar renze teukro tuz litvon to ogoka zefi or ubojet somdipa heoc.",
+    "bio": "Baz avewogo hewnef eraobo sabono me imca vu mi cesadma mi viun ikza tonefzo gub usabum. Noblus fe amo odeituhuh ukce ohi hob uzeev kamdo sanju henimido pot ajsim hotzo somha lu esmag. Ewibve jusfotdak ha maj ahijsur mal isna muv cu unfeuwo ziha kudmor jituru jis entocim goone javufku adkofu. Zoilucet fi hedod vujfe gu bi okbogew ravce joggikfam amfa wafiwu latizo bactuco. Zagde vocov fijgisif effoh lid lag carac kagcuk ufatozun punozsot nuzjugid likubcib kince sure wezravar aje lagudbef uda. Uka huarif zos gaddaru mok nulpak kileta jur hoswukut pufo al nitmav kamu vefijsul vefod ma wulo."
+  },
+  "apiKey": "cab4f22d0528d1e82c84017befd6041cbae2bfc9226e95a47d29835d82a08c9b",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
