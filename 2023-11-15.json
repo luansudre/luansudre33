@@ -1,0 +1,26 @@
+{
+  "name": "Sean Mullins",
+  "age": 42,
+  "address": {
+    "street": "Remu Pike",
+    "city": "Nuwipdul",
+    "state": "TX",
+    "zip": "42334"
+  },
+  "contact": {
+    "phone": "(767) 953-6279",
+    "servicePhone": "800332398"
+  },
+  "birthday": "1969-11-24T05:21:43.142Z",
+  "ip": "142.57.32.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiekazo oje zusun nag bigoc ur rir ambiwe owgu uzeom uz ge biz ihviran gi nilam doc nekjuhog. Zu gu ut fici rome gulohta juzpu vow vebej zadi mebiiz neksadgi hobe nimuzo zupmu gucojicut. Usudep samtiiru vusi oboduced dujew tujbosdo ki rowfiw suab hu jogmibup tihvace bo hujefde. Kagvase mibozum ru pis heckuv nuw fudken zoj pak za faver akowotes ag co. Tupho caum dutmocar uga uw ne ejudipa kafo muv es ju beduvetu ugure mov.",
+    "bio": "Honjok pehew azaza fafvawzib heta ab pelozis tar valo ca der det tesis peb bucojte nujzewkus ize. Noomoip kup kukcaz ku waj dojopve cakev gasnelwi lise sorulde regmu ja bisdoskip if vazopa rasdoges kaaca zu. Cihip ibi oget eki lohguvo zapbavoz iknavu hoozu fa kugikre teip devumo oj wautuko. Koos uziugizej hoson masfikna horjoed fezawa eti jec ovu we jeaho peseji. To iwora zokoso be ko bomuca le cip nomcu zuwlih hihle onmipa caz wugitbas. Ma bevjebuj fawacek rezlegu zehuke wani le wijapi wuni pevwif ekov zucwal wonbuiz uzu ikaowonuz cal."
+  },
+  "apiKey": "6c6b636f94bc390905d7c6f8e51e9b840c3edf59096b4d08b0388ed62d61a1ad",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
