@@ -1,0 +1,26 @@
+{
+  "name": "Andre Norton",
+  "age": 31,
+  "address": {
+    "street": "Juhe Extension",
+    "city": "Celposa",
+    "state": "OK",
+    "zip": "64360"
+  },
+  "contact": {
+    "phone": "(615) 226-1092",
+    "servicePhone": "800172577"
+  },
+  "birthday": "1988-01-21T06:19:22.656Z",
+  "ip": "70.139.37.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Mafitho temkekil iku impu ma okipawe tod melogef zejwuska luw om ic vitre web. Fevic tigzefez hup zokrezo tiddedvo vim raej jizjaji ojo ci vom movlovduf cubva tuhaf mofopef ejosemho ureovu wa. Ela pebci cohenbe edi femkah dob canpecot uwaik it zi canrawur je fatso vuvor bive. Nup fe mo muat valu gew cohha zow afiva if sobip durej owupikil luzkouwo moba sagdueke vi. Jo jufotgag ugfa rewoc furavrah ta se neniup zimlildat wemav jerrurlef etmup kamtam suslo tu zirubof punigi. Pem kazolep pomu ub ded berowos eniipogi segrezpu le palrotkew cutkib zechevmab orkog nipelse kaw wizoto jugjaznu rabsol. Toper zuvace som codu ehredfip og pikovaazi anobfud nibden anu nahmuv eburubus.",
+    "bio": "Meso vindefo cezpabo bavwuh sohone pu ol jogufop vo ahe it ferji wojo ako don vuh. Fi fahif me du anudi pipapa ce govudna va necoana ruj sed vigon. Boh hepip gibuzpo obe owufu opapuguh wunalah mejhi kimiwuwo zoweb boufo memlucug lolew je zigguz huubike cad zudni. Uce pacupi safihor gargo ebi du miwfonir sihir wijemiko sezavo ropu foowevu cise. Ijzaop sifwuvje rascik muh vowaz nukesah fajad tootpih leh vafhu hailu ajudin. Usonopa vic ita odadu wein udajuve pajwa sobe vesafne tunuahu rouhepos ez. Igi lo het sewik jisevwu rah nep roona wuzun dajzofew jahliw ro uwbisdus mul du fi ka anuwe."
+  },
+  "apiKey": "14f7fcccd27e6b00152375abaed4f1df15ec39b9fb1ca857f9e8b3fa7d65142c",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
