@@ -1,0 +1,26 @@
+{
+  "name": "Joe Chavez",
+  "age": 31,
+  "address": {
+    "street": "Coliz Way",
+    "city": "Javnieri",
+    "state": "VA",
+    "zip": "24235"
+  },
+  "contact": {
+    "phone": "(368) 383-7956",
+    "servicePhone": "800877185"
+  },
+  "birthday": "1971-12-22T01:18:32.999Z",
+  "ip": "56.201.88.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Melnoeba tazzusub senbuzo moip lovik fo kiadi ku maene gecebmas vo etru vor. Kabucko nap ewa va tejaf hifko wakbokra wisat wemowe kuvbeuve rar ijibe vettuhlo uliriese. Zod um ek ih zaribimag rarasub me ta lonbutum giz lilebe laugwu waguwi. Acuvo kezwa dojtun totud nirak pifhedu danatke ke naudzi giglitus gu dossuva apuli fonu vafmatmo lovjafun ciric muhetata. Ju pen sedsulim opanevzug ruinmul rug nilaf ah lo vacuh luktolda zo azrelmon coza. Hihse hob wutpe kud upigalhas usu me we esavafok inonaez paj ofi kuluk wagrotu kiwroaw mi riven zezor.",
+    "bio": "Olo fafez kunru libub bofhu ehgu vomer rigogpi kubussuk jico mi giwgipsov rob. Fuk loc gu luviaw fi ur wigfihem pi gebih kekra reza wokakaz bif giffenah fizka ebukiwvo. Caw mait go edod vehug cujittu sazrukto pefecel vum lihzo eh roigfi joczicas wodmenwim god jodfiphi upzow. Elezi bor calar sagomkic cubehesi okutu cokwikuv nulsiswe bumiziwav gew cuupa paf se vuku hakopiw."
+  },
+  "apiKey": "4065e290b19533b0f95ebd010082c41ff5f706c6ea9108cd37daa7ab053226e7",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
