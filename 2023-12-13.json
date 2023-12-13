@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Stewart",
+  "age": 45,
+  "address": {
+    "street": "Inuho Place",
+    "city": "Nofanob",
+    "state": "CT",
+    "zip": "14379"
+  },
+  "contact": {
+    "phone": "(430) 298-8145",
+    "servicePhone": "800626242"
+  },
+  "birthday": "1959-06-13T10:42:35.339Z",
+  "ip": "73.165.169.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Cug fobicajo zu gake java asaraj utapuhu su ma zewadi ipiasu donuvu. Camuc teoro ven zon temvutgo salumer logmonjoz acesejob pug esokon fuv tobroduj birreali opdalre ig enu hazmihe imopowan. Dacke cizaji fapetif ijlurfi vag ernirer wu cecvocru iniros vabfo cef og.",
+    "bio": "Nage hanuozo fu hejwah ah cup war peozalu oc zi ma culol pekzugok iwzidhe ta. Su neaki ne ne hani puhzojfak mada abocipok wukik obiofigep araabi ne loh iciwo gawo piduz kusihet. Obege hezivepe bafazizif mugouw bog zufsaj la ohugesha cowki zu te uta nizif evtejnip umacejar lu zov vuzbe. Jab jicezbom wos cupeg hero ka wuof fewij za nagbir hehpihom zikke om emidaaho."
+  },
+  "apiKey": "3c48795bf46fac42c8f86fe95b796b51335f88b9a40219e1d1712727b80aa27c",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
