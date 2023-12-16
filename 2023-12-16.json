@@ -1,0 +1,26 @@
+{
+  "name": "Ora Morgan",
+  "age": 42,
+  "address": {
+    "street": "Fosla Avenue",
+    "city": "Divarna",
+    "state": "CO",
+    "zip": "67863"
+  },
+  "contact": {
+    "phone": "(612) 910-2217",
+    "servicePhone": "800196261"
+  },
+  "birthday": "1961-08-02T18:21:48.445Z",
+  "ip": "89.77.181.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Usa hi ade godon humkoega lumal nodrer fim nugne tomuwti olajowevu ija. Hawo za celabfo mo po pogabtop vokarpi zodzovwo tuk gavujgin catabumuw karutver ipcak hibgewiv. Ced tasovsag guvcod pen salod te huvji fec zefih gahfiku fo simu. Orugal fadwooci ar uhoraljuj sat co cijfoco purod camu okhorej atnes kor.",
+    "bio": "Kehjad devujlo pu biamci niwoep gishe eploz laavfe as epiagmuk nihtu ehma ik. Uzfor wujag fuliwpow bogil jurpebuk te hewvus itsowok rufwefu otvenci kibtaw wi cacti piag. Ti likza jega tohce becgo etbob ti ka bo wala na ced. Geb heluz wut ga boc wuwazful vijkawe mus saidu momip po ludro ves puskigic avolaclom conesa."
+  },
+  "apiKey": "ec7aa4c376b1798749305d74986cca1411fef229e1165eff60455a2a3a2840e3",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
