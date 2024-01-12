@@ -1,0 +1,26 @@
+{
+  "name": "Adam Kennedy",
+  "age": 41,
+  "address": {
+    "street": "Napu Glen",
+    "city": "Horegla",
+    "state": "AZ",
+    "zip": "79049"
+  },
+  "contact": {
+    "phone": "(945) 280-9879",
+    "servicePhone": "800762274"
+  },
+  "birthday": "1964-11-22T15:42:43.340Z",
+  "ip": "198.183.220.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Mor baoger mi hez utumu fi watvu pavaz ut anaror vubera sew. Ovonu maar banbiko makimwa eg bikamguf vimlecab zovlewe domotid bog fagwekoca dandonen ug wironi ti. Tagkeh loba nakgitivi aru jobkog tesur kuugimo pekhikdon ulbuko obidokon apu jodne ava wowi vewfic. Waz ginvecnu idroba tizo bu si wevkabik ritijo gi ganizewe mubmehol ediziwik uhler warli. Uze maj cuudidiv fovhedis jog kiknef adtejis bih tad ki dujo sa ribo legnunpi wezijbor ivuwudwe kuzodad. Vos hopiwika muksupfew ruemes pi buogu jef uhzije be ratboak zecivosu moraz nas giozo benru me. Ilide zahegoj opaimi emunalta ekowor tapices mujun rawojukus soz kauta nadsihiz du.",
+    "bio": "Lo anirawhez meh subke pecadfa mil gap angu tikkarpa ikuneuni pebevfi kuk. Bakirop hadzirov jebi seliwu hapjuuso zampa go gilhur ihaguvro teh guzkej tuloseha abda igari ki jaavli tusuhro. Ruj saf ruvegruh tuzkiap nukuhga oc riogale ne liz remihvuv zobcutlal pe ve te."
+  },
+  "apiKey": "aee5dcd83b9cf337a89ceff176c2eb0f3605466241916edf9787a449471a25e9",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
