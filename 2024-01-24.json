@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Grant",
+  "age": 33,
+  "address": {
+    "street": "Usagij Pike",
+    "city": "Gapuca",
+    "state": "MN",
+    "zip": "55571"
+  },
+  "contact": {
+    "phone": "(945) 984-9751",
+    "servicePhone": "800812827"
+  },
+  "birthday": "1960-09-11T04:42:22.117Z",
+  "ip": "79.137.216.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Tegjaza up renidu febalcus fe roguheuj su po cubtervuz wa wap apazapo sob hano mezseav ehgoj hikbifib. Kij maodmal ji muwobmi lum ku apabibup te baz fakolo uh dal niegmuc papep ka sogon bod ke. Oluag cafomta juh basuf oleh vo pojupga sogutopuc nomralaf cusbu azdozej uprub vobmimzap cazir ve kirtewwe.",
+    "bio": "Ulkanjup ivwuned daj vujip rubte webidat use hemjuhpuw ci pisi bahmefiro efeekopo nejucko he ke rowfa dik. Zotu po toomtuc kalaka pucev vid opac buvof ma lopmi laek food ezo. Jimjedew akun dagurale ogop citpuk okhur vis og fe lali ekmo ufomaj se himmuji uzazih jebgeri."
+  },
+  "apiKey": "a60c3fe72e9717c6ed2d8963255d95e30f5813689f492904a13a79eab8183d1b",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
