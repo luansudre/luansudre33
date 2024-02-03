@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Weber",
+  "age": 55,
+  "address": {
+    "street": "Ralfa Mill",
+    "city": "Uvretu",
+    "state": "DE",
+    "zip": "28009"
+  },
+  "contact": {
+    "phone": "(320) 511-8437",
+    "servicePhone": "800653913"
+  },
+  "birthday": "1978-12-11T20:19:18.606Z",
+  "ip": "9.54.180.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Gic pujeg pas mitecnaz ru uzjapo nuwvatij ozazo daloz ditazuev mo loz lisurhev ensewba jojfegez ha ujbo. Ari gac cov nicavoti umifusje zec dizokkos maceh mi lislofo up vu baejawoj elzuwgum toc camkislah. Sahojir fefvu ujozuebu cidmaen mutulki fofa tozro vemas ji sife zofmez timred.",
+    "bio": "Akejirli wawuwiva ale vinize pa go nom cif fezzi unoovni bacew kuksa tovilva. Jubsud tiwo lo sera lap og ci odako guko ba urbozbil udod zi he fibda nef soape catipo. Ku jivebsot bomrur gunafup canuse geb ezeebaebi za gat manuji silorreg dangelne hokiho vukbot je erimaole lol. Pem hebzeram kuajdum wef difcupag uvo karmeodo casogavo rojomin puru taedkeb fopelni."
+  },
+  "apiKey": "b7b88b22150da9253534246ec83728f11d18b9088a1f0be7ad786fe7d1cd7600",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
