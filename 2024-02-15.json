@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Sanchez",
+  "age": 30,
+  "address": {
+    "street": "Samo Court",
+    "city": "Nokjewmov",
+    "state": "FL",
+    "zip": "63042"
+  },
+  "contact": {
+    "phone": "(977) 725-2553",
+    "servicePhone": "800246981"
+  },
+  "birthday": "1989-09-30T06:06:17.407Z",
+  "ip": "80.158.102.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Tagza ot ivutu aregarcol bushaf hioz lunih esi li bavvezu nu iku ri tatuj alucavo. Udral ze vah miwuse kojgedug cemufe wize ce us wiobu faera luc hok dodi om haptaro ednu. Evogegho om ejihve wije pidbo acpiz obke ede fapipi naarfu ono ijije pu. Avtenhom izehe bazurom semujo modinmeh jadibzuw wibaparu horu pum ganam nuler sur legsem.",
+    "bio": "Inu tolji bu udi zu sa da udere huse lu mo fow gani mehu runse codco. Wektumi sihid gozici wojfukmo ki malro erweudi gonratfij obuaf ran zobwigak lor tuw fiuv. Gejir ahen bi nazen nut gejoma enorujful dekev otba dub figlimis civo rumalu sibebip mivduh raate doh fapfac. Cikashe zagto dilap su burivfuv su fojhuvat ud for cisi reto vonu di ukafiel."
+  },
+  "apiKey": "abc70f74cdb48b0f40512c81d34c85bf57c5984c4310d84fc13d37b560dc7299",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
