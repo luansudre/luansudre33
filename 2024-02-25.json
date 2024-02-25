@@ -1,0 +1,26 @@
+{
+  "name": "Alan Reynolds",
+  "age": 29,
+  "address": {
+    "street": "Rekne Mill",
+    "city": "Fuhnegnam",
+    "state": "LA",
+    "zip": "45527"
+  },
+  "contact": {
+    "phone": "(444) 554-6219",
+    "servicePhone": "800639963"
+  },
+  "birthday": "1982-09-11T08:25:15.816Z",
+  "ip": "18.48.69.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Ganigras mil adno tobalur huc ede wiwsu nir riz wun dohe sigcif god neheba mo odoko nutwout. Setaba ciwu japmihjac sir dezros topi mih fec ocuapa bocfi tuhpedu boobomug ri eli. Desohesa egujopzo no cabehib biac hosa ol zuj kokulpas sem virki bofic azuliki cisoc warveufi pez afu veasiaru.",
+    "bio": "Atmudi iloguk conoda jukig azehle gew ul uf seveto daltonir odokubaw co tavbi citvop ha. Rojitdut et liflug cet kajvihob befti hunalac najrimri bosabfa hucub jioteobi hiormul vez oz. Odfa cebvujo vo jim kulsufwiv pa os eb umozo ja cabuc zuej pojat bod nos lanatwac. Nebothuz ummoazi vazopu bod hit ret linze utufuet lauw unpobe ade oppelrat teocgi seuve rubribo."
+  },
+  "apiKey": "1dd34da4c4de34601963cea26658ce1ce891f86437b3e69dace00e091b6d8c87",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
