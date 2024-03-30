@@ -1,0 +1,26 @@
+{
+  "name": "Julian Peterson",
+  "age": 51,
+  "address": {
+    "street": "Zenzod Plaza",
+    "city": "Unawazbe",
+    "state": "DC",
+    "zip": "53435"
+  },
+  "contact": {
+    "phone": "(319) 393-8778",
+    "servicePhone": "800818296"
+  },
+  "birthday": "1973-10-12T17:55:32.556Z",
+  "ip": "122.242.133.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Liwamsa gara zuobrew cizev iluboh kec ka ic heja vodve gupworad itiseza eh. Vikriwuk lasok ce sojil ato edfacu wecu kazen refani cunijmuz ewo guz. Limagok okuut mojulni dut rohwo den nosfo me muc fikvan sumfu fajughe kilecmuj tutilu dovsaspuz gejoscu embivpa zickemhab. Itwo ji esi gevi ke arakiv pazo um mi takwoniv ho dewe fel zajepege pos re ca itebiina. Vofala mupup un purgajjos domvu cewuhumis cuf fulzuze vuhgec vojlesat pibavbis neuwoja jerefko osu jeej pu aveajezak suze.",
+    "bio": "Kuicaip keajpok bij po so ri bef jib ruwcanvu ba vop zap. Ohgato aw si wejkuve fal narrat noheow lunotum mezmuj deed achucna rozahgut igekiof. Ojibo fihsahwe cekwo huzuc hajhaid tuufiso bito efe igi pur donar epefafob. Davebiwe kog gabul lo ju mi birdob asolibi guj mum rapja uvokihlen od ne hefwopriv kofmezo ucaade."
+  },
+  "apiKey": "db248631b633efd1841d2ffee077f14bcffb8037ba6de8fb9e2fdc38c4f53d9f",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
