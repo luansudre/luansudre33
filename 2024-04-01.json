@@ -1,0 +1,26 @@
+{
+  "name": "Craig Silva",
+  "age": 28,
+  "address": {
+    "street": "Rotru Way",
+    "city": "Sapauk",
+    "state": "IN",
+    "zip": "29394"
+  },
+  "contact": {
+    "phone": "(607) 481-8982",
+    "servicePhone": "800951242"
+  },
+  "birthday": "2005-05-09T20:54:12.436Z",
+  "ip": "81.168.217.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Icru goekizi na salihtur tum lecbiza cobaba ufnak dosnono elana biruro ur rano koz dune lik wuvda. Cec gisorouk jinuh zedker pec gefzeh fodvasiv di baut hitveco ul epti. Nekduefa mu saze atku ajo do hijhab ezonirale foud ri ravi ho nikun isavuwo aw paroap bo.",
+    "bio": "Ulre gosapa fulpe wowlorhe jo cedzofu edewa seksak vihifgo rizacata cobzijki pujzaw paipu. Joruure uvmec tac momohe abpercam guwo lec gejgum arjotevo tiej togaw nidob dag. Igopil ok vonvuk zolob ut ipulvo gogali fidumo pu za bivze wikace. Uvvec kib okkavub cokikos latok rajder cuw dofet ha tureko beknawuv cengadvi zicewuk atekul hatodibag cov. Ipawiv ojrah tegacivig zokop uzuewiloz sazuspu carehnuh wowlonad dezicko mot zovfal fatdevza vogwoar enasaanu. Fobcumvim ihuapafi jopibol ektanog wunmud cezput de fihe it zezpu bumbospo jamkef vod ziswiwiw cuf toz naciwubo wip."
+  },
+  "apiKey": "0fb753ad2a638d93221c5e3f3b2a051a704078f4b77d9c6c688fe8d0ffdd0efc",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
